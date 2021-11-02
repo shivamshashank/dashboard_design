@@ -22,7 +22,7 @@ The main goal is to build readable, maintainable, testable, and high-quality flu
 
 ### Front-end
 - **Flutter SDK**
-- **flutter_screenutil** - [Link]((https://pub.dev/packages/flutter_screenutil))
+- **flutter_screenutil** - [Link](https://pub.dev/packages/flutter_screenutil)
 
 # Author 🙋
 
